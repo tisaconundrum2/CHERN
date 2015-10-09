@@ -6,7 +6,7 @@ span.redacted {
     background-color: black;
 }
 
-.fit p{
+p.fit {
 	max-width:100%;
 	max-height:100%;
 }
