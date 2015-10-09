@@ -1,6 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
 
+span.redacted {
+    color: black;
+    background-color: black;
+}
+
+
 #navigationBar {
 /*width: 675px;
 margin-left: auto;
